@@ -4,6 +4,8 @@
 
 ###  Hi there, I'm Raju Ghorai - aka [coderj001] :wave:
 
+<img align="left" width="32px" height="32px" alt="profile" src="https://raw.githubusercontent.com/coderj001/coderj001/master/face_co.svg" />
+
 
 ## I'm Student, Coder, Developer and Ctf Player
 
