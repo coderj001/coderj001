@@ -15,3 +15,8 @@
 
 ### Connect with me:
 
+[<img align="left" alt="discod link" width="32px" height="32px" src="https://raw.githubusercontent.com/coderj001/coderj001/master/discord.svg" />]("https://discord.com/channels/@me/562217084109717514")
+
+[<img align="left" alt="linkdin link" width="32px" height="32px" src="https://raw.githubusercontent.com/coderj001/coderj001/master/icons8-linkedin.svg" />]("http://linkedin.com/in/rajughorai001")
+
+<br />
