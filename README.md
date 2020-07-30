@@ -50,3 +50,17 @@
 	<img align="left" alt="uikit" width="26px" src="https://raw.githubusercontent.com/coderj001/coderj001/master/uikit.svg" />
 	<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/coderj001/coderj001/master/cpp.svg" />
 </p>
+
+<br />
+<br />
+
+📊 **This week I spent my time on**
+
+<!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+
+<br />
+<br />
+
+<img align="left" alt="coderj001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&hide_border=true" />
