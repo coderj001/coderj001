@@ -1,5 +1,7 @@
 <img align="center" src="https://cxl.com/wp-content/uploads/2018/09/coding-language.jpg" height="200" width="1800">
-<br>
+
+<br />
+
 ###  Hi there, I'm Raju Ghorai - aka [coderj001][website] :wave:
 
 
