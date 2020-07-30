@@ -29,13 +29,14 @@
 
 ### Languages and Tools: 
 
+
 <p align="center">
 	<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 	<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 	<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 	<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 	<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-	<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+	<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/coderj001/coderj001/master/react.svg" />
 	<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 	<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 	<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -44,4 +45,8 @@
 	<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 	<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/coderj001/coderj001/master/python-seeklogo.com.svg" />
 	<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/coderj001/coderj001/master/django-seeklogo.com.svg" />
+	<img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/coderj001/coderj001/master/vue-9.svg" />
+	<img align="left" alt="vim" width="26px" src="https://raw.githubusercontent.com/coderj001/coderj001/master/vim.svg" />
+	<img align="left" alt="uikit" width="26px" src="https://raw.githubusercontent.com/coderj001/coderj001/master/uikit.svg" />
+	<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/coderj001/coderj001/master/cpp.svg" />
 </p>
