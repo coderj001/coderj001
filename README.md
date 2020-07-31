@@ -60,5 +60,3 @@
 
 <br />
 <br />
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/coderj.png" alt="TryHackMe">
