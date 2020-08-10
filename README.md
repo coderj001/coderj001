@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/coderj001/coderj001/master/sp.gif" height="300" width="900">
+<img align="center" src="https://raw.githubusercontent.com/coderj001/coderj001/master/sp.gif" height="300" width="630">
 
 <br />
 
