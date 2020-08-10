@@ -1,4 +1,5 @@
-<img src="sp.gif" alt="workflow" />
+<img align="center" src="sp.gif" height="200" width="1800">
+
 <br />
 
 ###  Hi there, I'm Raju Ghorai - aka [coderj001] :wave:
