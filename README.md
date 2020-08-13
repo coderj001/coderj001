@@ -55,6 +55,7 @@
 <br />
 
 <img align="left" alt="coderj001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&hide_border=true" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderj001)
+<img align="left" alt="coderj001's Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderj001" />
+
 <br />
 <br />
