@@ -1,3 +1,5 @@
+<img alt="cover" src="https://user-images.githubusercontent.com/194400/68083835-9e06c680-fe25-11e9-9c92-5d4c7a8e0577.png" />
+<br />
 <br />
 
 ###  Hi there, I'm Raju Ghorai - aka [coderj001] :wave:
