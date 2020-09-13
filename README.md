@@ -61,3 +61,5 @@
 
 <br />
 <br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=coderj001&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
