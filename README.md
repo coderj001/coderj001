@@ -49,7 +49,7 @@
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-coderj001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajughorai001/)](https://www.linkedin.com/in/rajughorai001/)
-[![Discord Badge](https://img.shields.io/badge/-coderj001-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://discord.com/channels/@me/562217084109717514/)](https://discord.com/channels/@me/562217084109717514/)
+[![Discord Badge](https://img.shields.io/badge/-coderj001-purple?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/562217084109717514/)](https://discord.com/channels/@me/562217084109717514/)
 
 <br />
 
