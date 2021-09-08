@@ -55,10 +55,11 @@
 
 <img align="left" alt="coderj001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&hide_border=true" />
 <br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=coderj001&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<br />
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=coderj001.coderj001)
 
