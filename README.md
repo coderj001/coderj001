@@ -1,5 +1,5 @@
 <h2> Hi there, I'm Raju Ghorai - aka [coderj001] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-<img align='right' src="https://raw.githubusercontent.com/coderj001/coderj001/master/face_co.svg" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Linkedin: rajughorai001](https://img.shields.io/badge/-rajughorai001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajughorai001/)](https://www.linkedin.com/in/rajughorai001/)
 [![Discord Badge](https://img.shields.io/badge/-coderj001-purple?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/562217084109717514/)](https://discord.com/channels/@me/562217084109717514/)
