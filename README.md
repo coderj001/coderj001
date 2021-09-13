@@ -49,12 +49,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Neovim](https://img.shields.io/badge/-Neovim-green?style=flat-square&logo=Neovim)
 
-
-### Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-coderj001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajughorai001/)](https://www.linkedin.com/in/rajughorai001/)
-[![Discord Badge](https://img.shields.io/badge/-coderj001-purple?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/562217084109717514/)](https://discord.com/channels/@me/562217084109717514/)
-
 <br />
 
 <img align="left" alt="coderj001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&hide_border=true" />
