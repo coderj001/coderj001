@@ -12,7 +12,7 @@
 
 ## Skills
 
-- Full-Stack Development (Django, Fastapi, Node, React, Vue)
+- Full-Stack Development (Django, Fastapi, Node, React)
 - Web Scraping (Scrapy, requests, bs4)
 - Web Automation (Selenium)
 
@@ -53,6 +53,8 @@
 
 <img align="left" alt="coderj001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&hide_border=true" />
 <br />
+<img alt="coderj001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox" />
+<img alt="coderj001's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=coderj001&include_all_commits=true&hide_border=true&theme=gruvbox" />
 <br />
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
