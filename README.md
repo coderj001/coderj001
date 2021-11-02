@@ -50,9 +50,7 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-green?style=flat-square&logo=Neovim)
 
 <br />
-
-<img align="left" alt="coderj001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox" />
-<img align="left" alt="coderj001's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=coderj001&include_all_commits=true&hide_border=true&theme=gruvbox" />
- 
+<img alt="coderj001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox" />
+<img alt="coderj001's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=coderj001&include_all_commits=true&hide_border=true&theme=gruvbox" />
 <br />
 <br />
