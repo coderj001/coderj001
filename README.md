@@ -56,6 +56,3 @@
  
 <br />
 <br />
-<img align="left" alt="coderj001's Github Stats" src="https://quotes-github-readme.vercel.app/api?type=horizonta&hide_border=true&theme=gruvbox" />
-
-<br />
