@@ -1,5 +1,10 @@
 # Hi there, I'm Raju Ghorai - a.k.a. [coderj001] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
+[![Linkedin: rajughorai001](https://img.shields.io/badge/-rajughorai001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajughorai001/)](https://www.linkedin.com/in/rajughorai001/)
+[![Discord Badge](https://img.shields.io/badge/-coderj001-purple?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/562217084109717514/)](https://discord.com/channels/@me/562217084109717514/)
+[![GitHub coderj001](https://img.shields.io/github/followers/coderj001?label=follow&style=social)](https://github.com/coderj001)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <img align="left" width="32px" height="32px" alt="profile" src="https://raw.githubusercontent.com/coderj001/coderj001/master/assets/face_co.svg" />
 
 
@@ -44,11 +49,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Neovim](https://img.shields.io/badge/-Neovim-green?style=flat-square&logo=Neovim)
-
-### Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-coderj001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajughorai001/)](https://www.linkedin.com/in/rajughorai001/)
-[![Discord Badge](https://img.shields.io/badge/-coderj001-purple?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/562217084109717514/)](https://discord.com/channels/@me/562217084109717514/)
 
 <br />
 <img alt="coderj001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox" />
