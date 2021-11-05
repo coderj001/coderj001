@@ -10,11 +10,11 @@
 
 ## I'm Student, Coder, Developer, and CTF Player
 
-- :fire: I'm currently Learning everything :smiley:
-- :school_satchel: I'm currently doing Computer Engineering :loop:
-- :books: I'm looking for collaborate in github :green_book:
-- :rocket: 2021 Goals: To start developement blog in medium and dev.to :soon:
-- :raised_hands: Fun fact: I love to watch movies and anime / read comics and books :zap:
+- :fire: **I'm currently Learning everything** :smiley:
+- :school_satchel: **I'm currently doing Computer Engineering** :loop:
+- :books: **I'm looking for collaborate in github** :green_book:
+- :rocket: **2021 Goals: To start developement blog in medium and dev.to** :soon:
+- :raised_hands: **Fun fact: I love to watch movies and anime / read comics and books** :zap:
 
 
 ## Langugages
