@@ -16,11 +16,6 @@
 - :rocket: 2021 Goals: To start developement blog in medium and dev.to :soon:
 - :raised_hands: Fun fact: I love to watch movies and anime / read comics and books :zap:
 
-## Skills
-
-- Full-Stack Development
-- Web Scraping
-- Web Automation
 
 ## Langugages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
