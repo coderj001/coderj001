@@ -1,5 +1,4 @@
-# Hi there, I'm Raju Ghorai - a.k.a. [coderj001] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
+# Hi there, I'm Raju Ghorai - a.k.a. [coderj001] 
 [![Linkedin: rajughorai001](https://img.shields.io/badge/-rajughorai001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajughorai001/)](https://www.linkedin.com/in/rajughorai001/)
 [![Discord Badge](https://img.shields.io/badge/-coderj001-purple?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/562217084109717514/)](https://discord.com/channels/@me/562217084109717514/)
 [![GitHub coderj001](https://img.shields.io/github/followers/coderj001?label=follow&style=social)](https://github.com/coderj001)
