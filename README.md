@@ -4,18 +4,6 @@
 [![GitHub coderj001](https://img.shields.io/github/followers/coderj001?label=follow&style=social)](https://github.com/coderj001)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<img align="left" width="32px" height="32px" alt="profile" src="https://raw.githubusercontent.com/coderj001/coderj001/master/assets/face_co.svg" />
-
-
-## I'm Student, Coder, Developer, and CTF Player
-
-- :fire: **I'm currently Learning everything** :smiley:
-- :school_satchel: **I'm currently doing Computer Engineering** :loop:
-- :books: **I'm looking for collaborate in github** :green_book:
-- :rocket: **2022 Goals: To start developement blog in medium and dev.to** :soon:
-- :raised_hands: **Fun fact: I love to watch movies and anime / read comics and books** :zap:
-
-
 ## Langugages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
