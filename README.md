@@ -1,8 +1,15 @@
-# Hi there, I'm Raju Ghorai - a.k.a. [coderj001] 
+# Hi there, I'm Raju Ghorai: **Code wizard, open source enthusiast, and lifelong learner**
 [![Linkedin: rajughorai001](https://img.shields.io/badge/-rajughorai001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajughorai001/)](https://www.linkedin.com/in/rajughorai001/)
 [![Discord Badge](https://img.shields.io/badge/-coderj001-purple?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/562217084109717514/)](https://discord.com/channels/@me/562217084109717514/)
 [![GitHub coderj001](https://img.shields.io/github/followers/coderj001?label=follow&style=social)](https://github.com/coderj001)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+#### 2023 Plan
+
+  - Read 6 new books and review 6 previously read books
+  - Take 2 trips to India
+  - Build at least 2 personal projects
+  - Contribute to more open source projects
 
 ## Langugages
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -59,3 +66,8 @@
  Overall Stats             |  Contribution Stats
 :-------------------------:|:-------------------------:
 ![coderj001's Github Stats](https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox)  |  ![coderj001's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=coderj001&include_all_commits=true&hide_border=true&theme=gruvbox)
+
+<br/>
+<div style="width: 100%;">
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
