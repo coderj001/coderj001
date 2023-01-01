@@ -6,10 +6,10 @@
 
 ### 2023 Plan
 
-- ![book icon](https://fontawesome.com/icons/book?style=solid) Read 6 new books and review 6 previously read books
-- ![plane icon](https://fontawesome.com/icons/plane?style=solid) Take 2 trips to India
-- ![tool icon](https://fontawesome.com/icons/tools?style=solid) Build at least 2 personal projects
-- ![code icon](https://fontawesome.com/icons/code?style=solid) Contribute to more open source projects
+  - 📚 Read 6 new books and review 6 previously read books
+  - 🛫 Take 2 trips to India
+  - 💻 Build at least 2 personal projects
+  - 🤝 Contribute to more open source projects
 
 
 ## Langugages
