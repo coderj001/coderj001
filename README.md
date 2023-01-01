@@ -4,12 +4,13 @@
 [![GitHub coderj001](https://img.shields.io/github/followers/coderj001?label=follow&style=social)](https://github.com/coderj001)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-#### 2023 Plan
+### 2023 Plan
 
-  - Read 6 new books and review 6 previously read books
-  - Take 2 trips to India
-  - Build at least 2 personal projects
-  - Contribute to more open source projects
+- ![book icon](https://fontawesome.com/icons/book?style=solid) Read 6 new books and review 6 previously read books
+- ![plane icon](https://fontawesome.com/icons/plane?style=solid) Take 2 trips to India
+- ![tool icon](https://fontawesome.com/icons/tools?style=solid) Build at least 2 personal projects
+- ![code icon](https://fontawesome.com/icons/code?style=solid) Contribute to more open source projects
+
 
 ## Langugages
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -68,6 +69,3 @@
 ![coderj001's Github Stats](https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox)  |  ![coderj001's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=coderj001&include_all_commits=true&hide_border=true&theme=gruvbox)
 
 <br/>
-<div style="width: 100%;">
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
