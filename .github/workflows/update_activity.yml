@@ -1,0 +1,26 @@
+on:
+  schedule:
+    # Run every day at midnight
+    - cron: '0 0 * * *'
+
+jobs:
+  update_activity:
+    runs-on: ubuntu-latest
+    steps:
+      # Authenticate with GitHub
+      - uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14.x'
+      # Install dependencies
+      - run: npm install
+      # Get recent activity
+      - run: node index.js
+      # Commit and push changes
+      - name: Commit and push
+        uses: actions/git-client@v2
+        with:
+          commit_message: 'Update recent activity'
+          add: 'README.md'
+          push: true
