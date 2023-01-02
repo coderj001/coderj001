@@ -72,4 +72,5 @@
 
 ## Recent Activity
 
-<!-- List of recent activity will be inserted here by the GitHub Action -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
