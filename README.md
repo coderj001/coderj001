@@ -69,3 +69,7 @@
 ![coderj001's Github Stats](https://github-readme-stats.vercel.app/api?username=coderj001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox)  |  ![coderj001's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=coderj001&include_all_commits=true&hide_border=true&theme=gruvbox)
 
 <br/>
+
+## Recent Activity
+
+<!-- List of recent activity will be inserted here by the GitHub Action -->
