@@ -1,29 +1,19 @@
+name: Update README
+
 on:
   schedule:
-    # Run every day at midnight
     - cron: '*/5 * * * *'
 
 jobs:
-  update_activity:
+  build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
     steps:
-      # Authenticate with GitHub
       - uses: actions/checkout@v2
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          node-version: '14.x'
-      # Install dependencies
-      - run: npm install
-      # Get recent activity
-      - run: node index.js
-      # Commit and push changes
-      - name: Commit and push
-        - uses: actions/git-client@v1
-        - uses: jamesgeorge007/github-activity-readme@master
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: 'Update recent activity'
-          add: 'README.md'
-          push: true
+          COMMIT_MSG: 'Update recent activity'
+          MAX_LINES: 10
