@@ -1,10 +1,10 @@
-# Hi there, I'm Raju Ghorai: **Code wizard, open source enthusiast, and lifelong learner**
+# Hi there, I'm Raju Ghorai: 🔮 **Code wizard, open source enthusiast, and lifelong learner** 🧑‍💻
 [![Linkedin: rajughorai001](https://img.shields.io/badge/-rajughorai001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajughorai001/)](https://www.linkedin.com/in/rajughorai001/)
 [![Discord Badge](https://img.shields.io/badge/-coderj001-purple?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/562217084109717514/)](https://discord.com/channels/@me/562217084109717514/)
 [![GitHub coderj001](https://img.shields.io/github/followers/coderj001?label=follow&style=social)](https://github.com/coderj001)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### 2023 Plan
+### 🎯 2023 Goals: Exploring new horizons
 
   - 📚 Read 6 new books and review 6 previously read books
   - 🛫 Take 2 trips to India
