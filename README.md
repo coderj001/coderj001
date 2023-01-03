@@ -1,4 +1,6 @@
-# Hi there, I'm Raju Ghorai: 🔮 **Code wizard, open source enthusiast, and lifelong learner** 🧑‍💻
+# Hi there, I'm Raju Ghorai:  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=E729F7&vCenter=true&width=1200&height=100&lines=Code+wizard%2C+open+source+enthusiast%2C+and+lifelong+learner)](https://git.io/typing-svg)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajughorai001/"><img src="https://img.shields.io/badge/-rajughorai001-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: rajughorai001"></a>
