@@ -89,8 +89,8 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/coderj001/DutchWiser/issues/1) in [coderj001/DutchWiser](https://github.com/coderj001/DutchWiser)
-2. 🎉 Merged PR [#12](https://github.com/coderj001/universitymanagementsystem/pull/12) in [coderj001/universitymanagementsystem](https://github.com/coderj001/universitymanagementsystem)
+1. 🎉 Merged PR [#1](https://github.com/coderj001/go-wallheven/pull/1) in [coderj001/go-wallheven](https://github.com/coderj001/go-wallheven)
+2. ❗️ Opened issue [#1](https://github.com/coderj001/DutchWiser/issues/1) in [coderj001/DutchWiser](https://github.com/coderj001/DutchWiser)
 3. 🎉 Merged PR [#13](https://github.com/coderj001/universitymanagementsystem/pull/13) in [coderj001/universitymanagementsystem](https://github.com/coderj001/universitymanagementsystem)
 4. 🎉 Merged PR [#4](https://github.com/coderj001/whatsapp-fun/pull/4) in [coderj001/whatsapp-fun](https://github.com/coderj001/whatsapp-fun)
 5. 🎉 Merged PR [#3](https://github.com/coderj001/python-dirbuster/pull/3) in [coderj001/python-dirbuster](https://github.com/coderj001/python-dirbuster)
