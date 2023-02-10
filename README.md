@@ -89,10 +89,10 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/coderj001/go-wallheven/pull/2) in [coderj001/go-wallheven](https://github.com/coderj001/go-wallheven)
-2. 🎉 Merged PR [#1](https://github.com/coderj001/go-wallheven/pull/1) in [coderj001/go-wallheven](https://github.com/coderj001/go-wallheven)
-3. ❗️ Opened issue [#1](https://github.com/coderj001/DutchWiser/issues/1) in [coderj001/DutchWiser](https://github.com/coderj001/DutchWiser)
-4. 🎉 Merged PR [#4](https://github.com/coderj001/whatsapp-fun/pull/4) in [coderj001/whatsapp-fun](https://github.com/coderj001/whatsapp-fun)
+1. 🎉 Merged PR [#2](https://github.com/coderj001/go-wallhaven/pull/2) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
+2. 💪 Opened PR [#2](https://github.com/coderj001/go-wallheven/pull/2) in [coderj001/go-wallheven](https://github.com/coderj001/go-wallheven)
+3. 🎉 Merged PR [#1](https://github.com/coderj001/go-wallheven/pull/1) in [coderj001/go-wallheven](https://github.com/coderj001/go-wallheven)
+4. ❗️ Opened issue [#1](https://github.com/coderj001/DutchWiser/issues/1) in [coderj001/DutchWiser](https://github.com/coderj001/DutchWiser)
 5. 🎉 Merged PR [#3](https://github.com/coderj001/python-dirbuster/pull/3) in [coderj001/python-dirbuster](https://github.com/coderj001/python-dirbuster)
 6. 🗣 Commented on [#7](https://github.com/binxio/aws-ssh-tunnel/issues/7) in [binxio/aws-ssh-tunnel](https://github.com/binxio/aws-ssh-tunnel)
 7. 🗣 Commented on [#6](https://github.com/coderj001/coderj001/issues/6) in [coderj001/coderj001](https://github.com/coderj001/coderj001)
