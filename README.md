@@ -89,8 +89,8 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/konapun/vacuumline.nvim/pull/1) in [konapun/vacuumline.nvim](https://github.com/konapun/vacuumline.nvim)
-2. 🎉 Merged PR [#3](https://github.com/coderj001/go-wallhaven/pull/3) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
+1. ❗️ Opened issue [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
+2. 💪 Opened PR [#1](https://github.com/konapun/vacuumline.nvim/pull/1) in [konapun/vacuumline.nvim](https://github.com/konapun/vacuumline.nvim)
 3. 🎉 Merged PR [#2](https://github.com/coderj001/go-wallhaven/pull/2) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
 4. 💪 Opened PR [#2](https://github.com/coderj001/go-wallheven/pull/2) in [coderj001/go-wallheven](https://github.com/coderj001/go-wallheven)
 5. 🎉 Merged PR [#1](https://github.com/coderj001/go-wallheven/pull/1) in [coderj001/go-wallheven](https://github.com/coderj001/go-wallheven)
