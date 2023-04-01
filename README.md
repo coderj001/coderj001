@@ -89,11 +89,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/coderj001/ai-git-commit/pull/2) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
-2. 💪 Opened PR [#2](https://github.com/coderj001/ai-git-commit/pull/2) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
-3. ❗️ Opened issue [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
-4. 💪 Opened PR [#1](https://github.com/konapun/vacuumline.nvim/pull/1) in [konapun/vacuumline.nvim](https://github.com/konapun/vacuumline.nvim)
-5. 🎉 Merged PR [#1](https://github.com/coderj001/go-wallheven/pull/1) in [coderj001/go-wallheven](https://github.com/coderj001/go-wallheven)
+1. ❗️ Closed issue [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
+2. 🗣 Commented on [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
+3. 🎉 Merged PR [#2](https://github.com/coderj001/ai-git-commit/pull/2) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
+4. 💪 Opened PR [#2](https://github.com/coderj001/ai-git-commit/pull/2) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
+5. ❗️ Opened issue [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
 6. 🗣 Commented on [#7](https://github.com/binxio/aws-ssh-tunnel/issues/7) in [binxio/aws-ssh-tunnel](https://github.com/binxio/aws-ssh-tunnel)
 7. 🗣 Commented on [#6](https://github.com/coderj001/coderj001/issues/6) in [coderj001/coderj001](https://github.com/coderj001/coderj001)
 8. ❗️ Closed issue [#6](https://github.com/coderj001/coderj001/issues/6) in [coderj001/coderj001](https://github.com/coderj001/coderj001)
