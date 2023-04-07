@@ -89,14 +89,14 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
-2. 🗣 Commented on [#808](https://github.com/serlo/api.serlo.org/issues/808) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
-3. 💪 Opened PR [#829](https://github.com/serlo/api.serlo.org/pull/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
-4. ❗️ Closed issue [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
-5. 🗣 Commented on [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
-6. 🎉 Merged PR [#2](https://github.com/coderj001/ai-git-commit/pull/2) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
-7. 💪 Opened PR [#2](https://github.com/coderj001/ai-git-commit/pull/2) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
-8. ❗️ Opened issue [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
-9. ❗️ Closed issue [#2](https://github.com/coderj001/python-deliveryservice/issues/2) in [coderj001/python-deliveryservice](https://github.com/coderj001/python-deliveryservice)
-10. ❗️ Opened issue [#2](https://github.com/coderj001/python-deliveryservice/issues/2) in [coderj001/python-deliveryservice](https://github.com/coderj001/python-deliveryservice)
+1. ❗️ Closed issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
+2. 🗣 Commented on [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
+3. ❗️ Opened issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
+4. 🗣 Commented on [#808](https://github.com/serlo/api.serlo.org/issues/808) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
+5. 💪 Opened PR [#829](https://github.com/serlo/api.serlo.org/pull/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
+6. ❗️ Closed issue [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
+7. 🗣 Commented on [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
+8. 🎉 Merged PR [#2](https://github.com/coderj001/ai-git-commit/pull/2) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
+9. 💪 Opened PR [#2](https://github.com/coderj001/ai-git-commit/pull/2) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
+10. ❗️ Opened issue [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
 <!--END_SECTION:activity-->
