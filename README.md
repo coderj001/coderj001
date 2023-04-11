@@ -89,14 +89,14 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#829](https://github.com/serlo/api.serlo.org/issues/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
+1. 🎉 Merged PR [#4](https://github.com/coderj001/go-wallhaven/pull/4) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
 2. 🗣 Commented on [#829](https://github.com/serlo/api.serlo.org/issues/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
-3. ❗️ Closed issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
-4. 🗣 Commented on [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
-5. ❗️ Opened issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
-6. 🗣 Commented on [#808](https://github.com/serlo/api.serlo.org/issues/808) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
-7. 💪 Opened PR [#829](https://github.com/serlo/api.serlo.org/pull/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
-8. ❗️ Closed issue [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
-9. 🗣 Commented on [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
-10. 🎉 Merged PR [#2](https://github.com/coderj001/ai-git-commit/pull/2) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
+3. 🗣 Commented on [#829](https://github.com/serlo/api.serlo.org/issues/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
+4. ❗️ Closed issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
+5. 🗣 Commented on [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
+6. ❗️ Opened issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
+7. 🗣 Commented on [#808](https://github.com/serlo/api.serlo.org/issues/808) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
+8. 💪 Opened PR [#829](https://github.com/serlo/api.serlo.org/pull/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
+9. ❗️ Closed issue [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
+10. 🗣 Commented on [#1](https://github.com/coderj001/ai-git-commit/issues/1) in [coderj001/ai-git-commit](https://github.com/coderj001/ai-git-commit)
 <!--END_SECTION:activity-->
