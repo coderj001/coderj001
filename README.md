@@ -89,14 +89,14 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/shobrook/adrenaline/issues/55) in [shobrook/adrenaline](https://github.com/shobrook/adrenaline)
-2. ❗️ Opened issue [#1762](https://github.com/AstroNvim/AstroNvim/issues/1762) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-3. 🎉 Merged PR [#4](https://github.com/coderj001/go-wallhaven/pull/4) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
-4. 🗣 Commented on [#829](https://github.com/serlo/api.serlo.org/issues/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
+1. 🎉 Merged PR [#14](https://github.com/coderj001/universitymanagementsystem/pull/14) in [coderj001/universitymanagementsystem](https://github.com/coderj001/universitymanagementsystem)
+2. 🗣 Commented on [#55](https://github.com/shobrook/adrenaline/issues/55) in [shobrook/adrenaline](https://github.com/shobrook/adrenaline)
+3. ❗️ Opened issue [#1762](https://github.com/AstroNvim/AstroNvim/issues/1762) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+4. 🎉 Merged PR [#4](https://github.com/coderj001/go-wallhaven/pull/4) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
 5. 🗣 Commented on [#829](https://github.com/serlo/api.serlo.org/issues/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
-6. ❗️ Closed issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
-7. 🗣 Commented on [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
-8. ❗️ Opened issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
-9. 🗣 Commented on [#808](https://github.com/serlo/api.serlo.org/issues/808) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
-10. 💪 Opened PR [#829](https://github.com/serlo/api.serlo.org/pull/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
+6. 🗣 Commented on [#829](https://github.com/serlo/api.serlo.org/issues/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
+7. ❗️ Closed issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
+8. 🗣 Commented on [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
+9. ❗️ Opened issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
+10. 🗣 Commented on [#808](https://github.com/serlo/api.serlo.org/issues/808) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
 <!--END_SECTION:activity-->
