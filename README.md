@@ -89,14 +89,14 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/coderj001/JobFinder-ReactNative/pull/7) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
-2. 🎉 Merged PR [#14](https://github.com/coderj001/universitymanagementsystem/pull/14) in [coderj001/universitymanagementsystem](https://github.com/coderj001/universitymanagementsystem)
-3. 🗣 Commented on [#55](https://github.com/shobrook/adrenaline/issues/55) in [shobrook/adrenaline](https://github.com/shobrook/adrenaline)
-4. ❗️ Opened issue [#1762](https://github.com/AstroNvim/AstroNvim/issues/1762) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-5. 🎉 Merged PR [#4](https://github.com/coderj001/go-wallhaven/pull/4) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
-6. 🗣 Commented on [#829](https://github.com/serlo/api.serlo.org/issues/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
-7. 🗣 Commented on [#829](https://github.com/serlo/api.serlo.org/issues/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
-8. ❗️ Closed issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
-9. 🗣 Commented on [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
-10. ❗️ Opened issue [#79](https://github.com/ShivamJoker/SQL-Play/issues/79) in [ShivamJoker/SQL-Play](https://github.com/ShivamJoker/SQL-Play)
+1. 🎉 Merged PR [#6](https://github.com/coderj001/JobFinder-ReactNative/pull/6) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
+2. 🎉 Merged PR [#3](https://github.com/coderj001/JobFinder-ReactNative/pull/3) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
+3. 🎉 Merged PR [#8](https://github.com/coderj001/JobFinder-ReactNative/pull/8) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
+4. 🎉 Merged PR [#7](https://github.com/coderj001/JobFinder-ReactNative/pull/7) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
+5. 🎉 Merged PR [#14](https://github.com/coderj001/universitymanagementsystem/pull/14) in [coderj001/universitymanagementsystem](https://github.com/coderj001/universitymanagementsystem)
+6. 🗣 Commented on [#55](https://github.com/shobrook/adrenaline/issues/55) in [shobrook/adrenaline](https://github.com/shobrook/adrenaline)
+7. ❗️ Opened issue [#1762](https://github.com/AstroNvim/AstroNvim/issues/1762) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+8. 🎉 Merged PR [#4](https://github.com/coderj001/go-wallhaven/pull/4) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
+9. 🗣 Commented on [#829](https://github.com/serlo/api.serlo.org/issues/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
+10. 🗣 Commented on [#829](https://github.com/serlo/api.serlo.org/issues/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
 <!--END_SECTION:activity-->
