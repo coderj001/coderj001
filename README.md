@@ -89,14 +89,14 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/coderj001/JobFinder-ReactNative/pull/9) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
-2. 🎉 Merged PR [#6](https://github.com/coderj001/JobFinder-ReactNative/pull/6) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
-3. 🎉 Merged PR [#3](https://github.com/coderj001/JobFinder-ReactNative/pull/3) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
-4. 🎉 Merged PR [#8](https://github.com/coderj001/JobFinder-ReactNative/pull/8) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
-5. 🎉 Merged PR [#7](https://github.com/coderj001/JobFinder-ReactNative/pull/7) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
-6. 🎉 Merged PR [#14](https://github.com/coderj001/universitymanagementsystem/pull/14) in [coderj001/universitymanagementsystem](https://github.com/coderj001/universitymanagementsystem)
-7. 🗣 Commented on [#55](https://github.com/shobrook/adrenaline/issues/55) in [shobrook/adrenaline](https://github.com/shobrook/adrenaline)
-8. ❗️ Opened issue [#1762](https://github.com/AstroNvim/AstroNvim/issues/1762) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-9. 🎉 Merged PR [#4](https://github.com/coderj001/go-wallhaven/pull/4) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
-10. 🗣 Commented on [#829](https://github.com/serlo/api.serlo.org/issues/829) in [serlo/api.serlo.org](https://github.com/serlo/api.serlo.org)
+1. 🎉 Merged PR [#10](https://github.com/coderj001/JobFinder-ReactNative/pull/10) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
+2. 🎉 Merged PR [#9](https://github.com/coderj001/JobFinder-ReactNative/pull/9) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
+3. 🎉 Merged PR [#6](https://github.com/coderj001/JobFinder-ReactNative/pull/6) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
+4. 🎉 Merged PR [#3](https://github.com/coderj001/JobFinder-ReactNative/pull/3) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
+5. 🎉 Merged PR [#8](https://github.com/coderj001/JobFinder-ReactNative/pull/8) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
+6. 🎉 Merged PR [#7](https://github.com/coderj001/JobFinder-ReactNative/pull/7) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
+7. 🎉 Merged PR [#14](https://github.com/coderj001/universitymanagementsystem/pull/14) in [coderj001/universitymanagementsystem](https://github.com/coderj001/universitymanagementsystem)
+8. 🗣 Commented on [#55](https://github.com/shobrook/adrenaline/issues/55) in [shobrook/adrenaline](https://github.com/shobrook/adrenaline)
+9. ❗️ Opened issue [#1762](https://github.com/AstroNvim/AstroNvim/issues/1762) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+10. 🎉 Merged PR [#4](https://github.com/coderj001/go-wallhaven/pull/4) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
 <!--END_SECTION:activity-->
