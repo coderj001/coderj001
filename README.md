@@ -96,7 +96,7 @@
 5. 🗣 Commented on [#46](https://github.com/coderj001/JobFinder-ReactNative/pull/46#issuecomment-1665927199) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
 6. 🎉 Merged PR [#45](https://github.com/coderj001/JobFinder-ReactNative/pull/45) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
 7. 💪 Opened PR [#6](https://github.com/coderj001/go-wallhaven/pull/6) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
-8. 💪 Opened PR [#2](https://github.com/coderj001/kickNV/pull/2) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
+8. 💪 Opened PR [#3](https://github.com/coderj001/kickNV/pull/3) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
 9. ❌ Closed PR [#1](https://github.com/coderj001/kickNV/pull/1) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
 10. 🎉 Merged PR [#25](https://github.com/coderj001/JobFinder-ReactNative/pull/25) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
 <!--END_SECTION:activity-->
