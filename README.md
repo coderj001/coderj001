@@ -89,14 +89,14 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2744](https://github.com/neovim/nvim-lspconfig/issues/2744#issuecomment-1779245651) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-2. 🔒 Closed issue [#109](https://github.com/getumbrel/llama-gpt/issues/109) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
-3. 🎉 Merged PR [#7](https://github.com/coderj001/go-wallhaven/pull/7) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
-4. 🎉 Merged PR [#7](https://github.com/coderj001/whatsapp-fun/pull/7) in [coderj001/whatsapp-fun](https://github.com/coderj001/whatsapp-fun)
-5. 🗣 Commented on [#106](https://github.com/getumbrel/llama-gpt/issues/106#issuecomment-1734905036) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
-6. ❗ Opened issue [#109](https://github.com/getumbrel/llama-gpt/issues/109) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
-7. 🗣 Commented on [#108](https://github.com/getumbrel/llama-gpt/pull/108#issuecomment-1733480009) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
-8. 💪 Opened PR [#108](https://github.com/getumbrel/llama-gpt/pull/108) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
-9. 🎉 Merged PR [#54](https://github.com/coderj001/JobFinder-ReactNative/pull/54) in [coderj001/JobFinder-ReactNative](https://github.com/coderj001/JobFinder-ReactNative)
+1. ❗ Opened issue [#1](https://github.com/coderj001/jujutsu-kaisen-api/issues/1) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+2. 🗣 Commented on [#2744](https://github.com/neovim/nvim-lspconfig/issues/2744#issuecomment-1779245651) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+3. 🔒 Closed issue [#109](https://github.com/getumbrel/llama-gpt/issues/109) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
+4. 🎉 Merged PR [#7](https://github.com/coderj001/go-wallhaven/pull/7) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
+5. 🎉 Merged PR [#7](https://github.com/coderj001/whatsapp-fun/pull/7) in [coderj001/whatsapp-fun](https://github.com/coderj001/whatsapp-fun)
+6. 🗣 Commented on [#106](https://github.com/getumbrel/llama-gpt/issues/106#issuecomment-1734905036) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
+7. ❗ Opened issue [#109](https://github.com/getumbrel/llama-gpt/issues/109) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
+8. 🗣 Commented on [#108](https://github.com/getumbrel/llama-gpt/pull/108#issuecomment-1733480009) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
+9. 💪 Opened PR [#108](https://github.com/getumbrel/llama-gpt/pull/108) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
 10. ❗ Opened issue [#1](https://github.com/coderj001/PhoneGuardian/issues/1) in [coderj001/PhoneGuardian](https://github.com/coderj001/PhoneGuardian)
 <!--END_SECTION:activity-->
