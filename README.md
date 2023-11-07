@@ -89,14 +89,14 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/coderj001/kickNV/pull/5) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
-2. 💪 Opened PR [#4](https://github.com/coderj001/kickNV/pull/4) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
-3. ❗ Opened issue [#1](https://github.com/coderj001/jujutsu-kaisen-api/issues/1) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
-4. 🗣 Commented on [#2744](https://github.com/neovim/nvim-lspconfig/issues/2744#issuecomment-1779245651) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-5. 🔒 Closed issue [#109](https://github.com/getumbrel/llama-gpt/issues/109) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
-6. 🎉 Merged PR [#7](https://github.com/coderj001/go-wallhaven/pull/7) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
-7. 🎉 Merged PR [#7](https://github.com/coderj001/whatsapp-fun/pull/7) in [coderj001/whatsapp-fun](https://github.com/coderj001/whatsapp-fun)
-8. 🗣 Commented on [#108](https://github.com/getumbrel/llama-gpt/pull/108#issuecomment-1733480009) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
+1. 🎉 Merged PR [#2](https://github.com/coderj001/jujutsu-kaisen-api/pull/2) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+2. 🎉 Merged PR [#3](https://github.com/coderj001/jujutsu-kaisen-api/pull/3) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+3. 💪 Opened PR [#5](https://github.com/coderj001/kickNV/pull/5) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
+4. 💪 Opened PR [#4](https://github.com/coderj001/kickNV/pull/4) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
+5. ❗ Opened issue [#1](https://github.com/coderj001/jujutsu-kaisen-api/issues/1) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+6. 🗣 Commented on [#2744](https://github.com/neovim/nvim-lspconfig/issues/2744#issuecomment-1779245651) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+7. 🔒 Closed issue [#109](https://github.com/getumbrel/llama-gpt/issues/109) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
+8. 🎉 Merged PR [#7](https://github.com/coderj001/go-wallhaven/pull/7) in [coderj001/go-wallhaven](https://github.com/coderj001/go-wallhaven)
 9. 💪 Opened PR [#108](https://github.com/getumbrel/llama-gpt/pull/108) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
 10. ❗ Opened issue [#1](https://github.com/coderj001/PhoneGuardian/issues/1) in [coderj001/PhoneGuardian](https://github.com/coderj001/PhoneGuardian)
 <!--END_SECTION:activity-->
