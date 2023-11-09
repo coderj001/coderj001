@@ -89,14 +89,14 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/coderj001/kickNV/pull/2) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
-2. 🎉 Merged PR [#7](https://github.com/coderj001/python-dirbuster/pull/7) in [coderj001/python-dirbuster](https://github.com/coderj001/python-dirbuster)
-3. 🎉 Merged PR [#2](https://github.com/coderj001/jujutsu-kaisen-api/pull/2) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
-4. 🎉 Merged PR [#3](https://github.com/coderj001/jujutsu-kaisen-api/pull/3) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
-5. 💪 Opened PR [#5](https://github.com/coderj001/kickNV/pull/5) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
-6. 💪 Opened PR [#4](https://github.com/coderj001/kickNV/pull/4) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
-7. ❗ Opened issue [#1](https://github.com/coderj001/jujutsu-kaisen-api/issues/1) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
-8. 🗣 Commented on [#2744](https://github.com/neovim/nvim-lspconfig/issues/2744#issuecomment-1779245651) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-9. 💪 Opened PR [#108](https://github.com/getumbrel/llama-gpt/pull/108) in [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
+1. ❗ Opened issue [#64035](https://github.com/golang/go/issues/64035) in [golang/go](https://github.com/golang/go)
+2. 🎉 Merged PR [#2](https://github.com/coderj001/kickNV/pull/2) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
+3. 🎉 Merged PR [#7](https://github.com/coderj001/python-dirbuster/pull/7) in [coderj001/python-dirbuster](https://github.com/coderj001/python-dirbuster)
+4. 🎉 Merged PR [#2](https://github.com/coderj001/jujutsu-kaisen-api/pull/2) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+5. 🎉 Merged PR [#3](https://github.com/coderj001/jujutsu-kaisen-api/pull/3) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+6. 💪 Opened PR [#5](https://github.com/coderj001/kickNV/pull/5) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
+7. 💪 Opened PR [#4](https://github.com/coderj001/kickNV/pull/4) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
+8. ❗ Opened issue [#1](https://github.com/coderj001/jujutsu-kaisen-api/issues/1) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+9. 🗣 Commented on [#2744](https://github.com/neovim/nvim-lspconfig/issues/2744#issuecomment-1779245651) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 10. ❗ Opened issue [#1](https://github.com/coderj001/PhoneGuardian/issues/1) in [coderj001/PhoneGuardian](https://github.com/coderj001/PhoneGuardian)
 <!--END_SECTION:activity-->
