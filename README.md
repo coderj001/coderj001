@@ -6,7 +6,9 @@
   <a href="https://www.linkedin.com/in/rajughorai001/"><img src="https://img.shields.io/badge/-rajughorai001-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: rajughorai001"></a>
   <a href="https://discord.com/channels/@me/562217084109717514/"><img src="https://img.shields.io/badge/-coderj001-purple?style=flat-square&logo=Discord&logoColor=white" alt="Discord Badge"></a>
   <a href="https://github.com/coderj001"><img src="https://img.shields.io/github/followers/coderj001?label=follow&style=social" alt="GitHub coderj001"></a>
+    <a href="https://peerlist.io/coderj001"><img src="https://github-readme-badge.peerlist.io/api/coderj001?style=social" alt="GitHub coderj001"></a>
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="GIF">
