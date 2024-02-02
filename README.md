@@ -14,12 +14,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="GIF">
 </p>
 
-## 🎯 2023 Goals: Exploring new horizons
-
-- 📚 Read 6 new books and review 6 previously read books
-- 🛫 Take 2 trips to India
-- 💻 Build at least 2 personal projects
-- 🤝 Contribute to more open source projects
 
 ## 💻 Technologies
 
