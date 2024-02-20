@@ -85,11 +85,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/lacion/cookiecutter-golang/pull/38) in [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang)
-2. ❗ Opened issue [#1](https://github.com/coderj001/memeify/issues/1) in [coderj001/memeify](https://github.com/coderj001/memeify)
-3. ❗ Opened issue [#1777](https://github.com/VSCodium/vscodium/issues/1777) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
-4. ❗ Opened issue [#1](https://github.com/coderj001/smart_city_traffic_management_system/issues/1) in [coderj001/smart_city_traffic_management_system](https://github.com/coderj001/smart_city_traffic_management_system)
-5. ❗ Opened issue [#64035](https://github.com/golang/go/issues/64035) in [golang/go](https://github.com/golang/go)
+1. 🎉 Merged PR [#4](https://github.com/coderj001/jujutsu-kaisen-api/pull/4) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+2. 💪 Opened PR [#38](https://github.com/lacion/cookiecutter-golang/pull/38) in [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang)
+3. ❗ Opened issue [#1](https://github.com/coderj001/memeify/issues/1) in [coderj001/memeify](https://github.com/coderj001/memeify)
+4. ❗ Opened issue [#1777](https://github.com/VSCodium/vscodium/issues/1777) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
+5. ❗ Opened issue [#1](https://github.com/coderj001/smart_city_traffic_management_system/issues/1) in [coderj001/smart_city_traffic_management_system](https://github.com/coderj001/smart_city_traffic_management_system)
 6. 🎉 Merged PR [#2](https://github.com/coderj001/kickNV/pull/2) in [coderj001/kickNV](https://github.com/coderj001/kickNV)
 7. 🎉 Merged PR [#7](https://github.com/coderj001/python-dirbuster/pull/7) in [coderj001/python-dirbuster](https://github.com/coderj001/python-dirbuster)
 8. 🎉 Merged PR [#2](https://github.com/coderj001/jujutsu-kaisen-api/pull/2) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
