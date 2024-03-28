@@ -85,13 +85,13 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/coderj001/jujutsu-kaisen-api/pull/5#issuecomment-1966942293) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
-2. 🗣 Commented on [#5](https://github.com/coderj001/jujutsu-kaisen-api/pull/5#issuecomment-1966938030) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
-3. 🎉 Merged PR [#4](https://github.com/coderj001/jujutsu-kaisen-api/pull/4) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
-4. 💪 Opened PR [#38](https://github.com/lacion/cookiecutter-golang/pull/38) in [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang)
-5. ❗ Opened issue [#1](https://github.com/coderj001/memeify/issues/1) in [coderj001/memeify](https://github.com/coderj001/memeify)
-6. ❗ Opened issue [#1777](https://github.com/VSCodium/vscodium/issues/1777) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
-7. ❗ Opened issue [#1](https://github.com/coderj001/smart_city_traffic_management_system/issues/1) in [coderj001/smart_city_traffic_management_system](https://github.com/coderj001/smart_city_traffic_management_system)
+1. 🗣 Commented on [#6](https://github.com/coderj001/jujutsu-kaisen-api/pull/6#issuecomment-2025807546) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+2. 🗣 Commented on [#5](https://github.com/coderj001/jujutsu-kaisen-api/pull/5#issuecomment-1966942293) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+3. 🗣 Commented on [#5](https://github.com/coderj001/jujutsu-kaisen-api/pull/5#issuecomment-1966938030) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+4. 🎉 Merged PR [#4](https://github.com/coderj001/jujutsu-kaisen-api/pull/4) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
+5. 💪 Opened PR [#38](https://github.com/lacion/cookiecutter-golang/pull/38) in [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang)
+6. ❗ Opened issue [#1](https://github.com/coderj001/memeify/issues/1) in [coderj001/memeify](https://github.com/coderj001/memeify)
+7. ❗ Opened issue [#1777](https://github.com/VSCodium/vscodium/issues/1777) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
 8. 🎉 Merged PR [#2](https://github.com/coderj001/jujutsu-kaisen-api/pull/2) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
 9. 🎉 Merged PR [#3](https://github.com/coderj001/jujutsu-kaisen-api/pull/3) in [coderj001/jujutsu-kaisen-api](https://github.com/coderj001/jujutsu-kaisen-api)
 10. ❗ Opened issue [#1](https://github.com/coderj001/PhoneGuardian/issues/1) in [coderj001/PhoneGuardian](https://github.com/coderj001/PhoneGuardian)
