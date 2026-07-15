@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Raju Ghorai, full-stack developer and DevOps engineer</title>
+  <desc id="desc">A terminal-inspired profile header showing Raju Ghorai building reliable software and open-source tools.</desc>
+
+  <rect width="1200" height="360" rx="24" fill="#101114"/>
+  <path d="M0 82H1200" stroke="#2A2D34" stroke-width="1"/>
+  <circle cx="40" cy="42" r="7" fill="#F97316"/>
+  <circle cx="64" cy="42" r="7" fill="#FACC15"/>
+  <circle cx="88" cy="42" r="7" fill="#84CC16"/>
+  <text x="112" y="48" fill="#A1A1AA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">~/coderj001/profile</text>
+
+  <g transform="translate(64 124)">
+    <text x="0" y="0" fill="#84CC16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">&gt; whoami</text>
+    <text x="0" y="58" fill="#FAFAF9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="48" font-weight="750">Raju Ghorai</text>
+    <text x="0" y="101" fill="#D4D4D8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22">Full-stack developer / DevOps engineer</text>
+    <text x="0" y="143" fill="#A1A1AA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18">Building useful software, dependable systems, and open-source tools.</text>
+  </g>
+
+  <g transform="translate(790 116)">
+    <rect width="336" height="172" rx="14" fill="#181A20" stroke="#343842"/>
+    <text x="24" y="34" fill="#A1A1AA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">PROFILE STATUS</text>
+    <path d="M24 52H312" stroke="#343842"/>
+    <circle cx="34" cy="82" r="5" fill="#84CC16"/>
+    <text x="52" y="87" fill="#FAFAF9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">shipping full-stack work</text>
+    <circle cx="34" cy="116" r="5" fill="#2563EB"/>
+    <text x="52" y="121" fill="#FAFAF9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">learning cloud architecture</text>
+    <circle cx="34" cy="150" r="5" fill="#F97316"/>
+    <text x="52" y="155" fill="#FAFAF9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">contributing upstream</text>
+  </g>
+
+  <text x="64" y="326" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">python / javascript / go / docker / aws</text>
+  <text x="1128" y="326" text-anchor="end" fill="#2563EB" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">OPEN_SOURCE=TRUE</text>
+</svg>
