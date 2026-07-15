@@ -6,16 +6,17 @@
   <a href="https://github.com/coderj001"><img src="https://img.shields.io/badge/GitHub-coderj001-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/rajughorai001/"><img src="https://img.shields.io/badge/LinkedIn-rajughorai001-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://peerlist.io/coderj001"><img src="https://img.shields.io/badge/Peerlist-coderj001-00AA45?style=flat-square&logo=peerlist&logoColor=white" alt="Peerlist"></a>
+  <a href="https://tryhackme.com/p/coderj001"><img src="https://img.shields.io/badge/TryHackMe-coderj001-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
   <a href="mailto:rajughorai001@gmail.com"><img src="https://img.shields.io/badge/Email-rajughorai001-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## The short version
 
-I'm **Raju Ghorai**, a full-stack developer, DevOps engineer, and AI systems builder focused on useful software, dependable delivery workflows, and open-source tools.
+I'm **Raju Ghorai**, a full-stack developer, DevOps engineer, AI systems builder, and cybersecurity enthusiast focused on useful software, dependable delivery workflows, and open-source tools.
 
 - **Build:** web products and APIs with Python, JavaScript, Django, React, and Go
 - **Operate:** containerized services, cloud infrastructure, databases, and automation
-- **Explore:** system design, cloud architecture, AI engineering, developer tooling, and open source
+- **Explore:** system design, cloud architecture, AI engineering, cybersecurity, developer tooling, and open source
 
 ## Tools I reach for
 

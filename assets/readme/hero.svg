@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Raju Ghorai, full-stack developer, DevOps engineer, and AI systems builder</title>
-  <desc id="desc">A terminal-inspired profile header showing Raju Ghorai building reliable software, AI systems, and open-source tools.</desc>
+  <title id="title">Raju Ghorai, full-stack developer, DevOps engineer, AI systems builder, and cybersecurity enthusiast</title>
+  <desc id="desc">A terminal-inspired profile header showing Raju Ghorai building reliable software, AI systems, and open-source tools while exploring cybersecurity.</desc>
 
   <rect width="1200" height="360" rx="24" fill="#101114"/>
   <path d="M0 82H1200" stroke="#2A2D34" stroke-width="1"/>
@@ -12,7 +12,7 @@
   <g transform="translate(64 124)">
     <text x="0" y="0" fill="#84CC16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">&gt; whoami</text>
     <text x="0" y="58" fill="#FAFAF9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="48" font-weight="750">Raju Ghorai</text>
-    <text x="0" y="101" fill="#D4D4D8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22">Full-stack developer / DevOps / AI systems</text>
+    <text x="0" y="101" fill="#D4D4D8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22">Full-stack / DevOps / AI systems / security</text>
     <text x="0" y="143" fill="#A1A1AA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18">Building reliable software, grounded AI workflows, and open-source tools.</text>
   </g>
 
@@ -25,7 +25,7 @@
     <circle cx="34" cy="116" r="5" fill="#2563EB"/>
     <text x="52" y="121" fill="#FAFAF9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">designing grounded AI workflows</text>
     <circle cx="34" cy="150" r="5" fill="#F97316"/>
-    <text x="52" y="155" fill="#FAFAF9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">contributing upstream</text>
+    <text x="52" y="155" fill="#FAFAF9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">exploring cybersecurity</text>
   </g>
 
   <text x="64" y="326" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">python / javascript / go / docker / rag</text>
