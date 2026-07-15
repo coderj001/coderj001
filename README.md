@@ -11,11 +11,11 @@
 
 ## The short version
 
-I'm **Raju Ghorai**, a full-stack developer and DevOps engineer focused on building useful software, dependable delivery workflows, and open-source tools.
+I'm **Raju Ghorai**, a full-stack developer, DevOps engineer, and AI systems builder focused on useful software, dependable delivery workflows, and open-source tools.
 
 - **Build:** web products and APIs with Python, JavaScript, Django, React, and Go
 - **Operate:** containerized services, cloud infrastructure, databases, and automation
-- **Explore:** system design, cloud architecture, developer tooling, and open source
+- **Explore:** system design, cloud architecture, AI engineering, developer tooling, and open source
 
 ## Tools I reach for
 
@@ -31,6 +31,14 @@ I'm **Raju Ghorai**, a full-stack developer and DevOps engineer focused on build
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,heroku,postman,jupyter,vscode,neovim" alt="Docker, AWS, Git, Linux, Heroku, Postman, Jupyter, VS Code, and Neovim" />
 </p>
+
+## AI engineering
+
+- **Spec-driven development (SSD):** turning ideas into executable specifications with `OpenSpec`, `BMAD`, and structured delivery workflows
+- **Context engineering:** designing the prompts, memory, tools, and retrieval context that help agents work reliably
+- **Harness engineering:** building evaluation loops, test fixtures, guardrails, and observability around AI systems
+- **RAG:** creating grounded retrieval pipelines across ingestion, chunking, search, reranking, and generation
+- **Custom skills:** building reusable agent skills, domain workflows, and task-specific automations
 
 ## GitHub activity
 
