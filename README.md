@@ -27,10 +27,13 @@ I'm **Raju Ghorai**, a full-stack developer, DevOps engineer, AI systems builder
   <img src="https://skillicons.dev/icons?i=django,react,express,flask,laravel,spring,jquery" alt="Django, React, Express, Flask, Laravel, Spring, and jQuery" />
 </p>
 <p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,pocketbase,supabase,spring,reactnative,apple" alt="FastAPI, Flask, PocketBase, Supabase, Spring, React Native, and Apple" />
+</p>
+<p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,rabbitmq" alt="PostgreSQL, MySQL, MongoDB, SQLite, Redis, Firebase, and RabbitMQ" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,heroku,postman,jupyter,vscode,neovim" alt="Docker, AWS, Git, Linux, Heroku, Postman, Jupyter, VS Code, and Neovim" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,linux,heroku,postman,jupyter,vscode,neovim" alt="Docker, AWS, Google Cloud, Git, Linux, Heroku, Postman, Jupyter, VS Code, and Neovim" />
 </p>
 
 ## AI engineering
