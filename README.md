@@ -10,7 +10,7 @@
   <a href="mailto:rajughorai001@gmail.com"><img src="https://img.shields.io/badge/Email-rajughorai001-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## The short version
+## The short version ⚡
 
 I'm **Raju Ghorai**, a full-stack developer, DevOps engineer, AI systems builder, and cybersecurity enthusiast focused on useful software, dependable delivery workflows, and open-source tools.
 
@@ -33,16 +33,16 @@ I'm **Raju Ghorai**, a full-stack developer, DevOps engineer, AI systems builder
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,rabbitmq" alt="PostgreSQL, MySQL, MongoDB, SQLite, Redis, Firebase, and RabbitMQ" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,linux,heroku,postman,jupyter,vscode,neovim" alt="Docker, AWS, Google Cloud, Git, Linux, Heroku, Postman, Jupyter, VS Code, and Neovim" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,android,xcode,git,linux,heroku,postman,jupyter,vscode,neovim" alt="Docker, AWS, Google Cloud, Android, Xcode, Git, Linux, Heroku, Postman, Jupyter, VS Code, and Neovim" />
 </p>
 
-## AI engineering
+## AI engineering 🤖
 
-- **Spec-driven development (SSD):** turning ideas into executable specifications with `OpenSpec`, `BMAD`, and structured delivery workflows
-- **Context engineering:** designing the prompts, memory, tools, and retrieval context that help agents work reliably
-- **Harness engineering:** building evaluation loops, test fixtures, guardrails, and observability around AI systems
-- **RAG:** creating grounded retrieval pipelines across ingestion, chunking, search, reranking, and generation
-- **Custom skills:** building reusable agent skills, domain workflows, and task-specific automations
+- 🧩 **Spec-driven development (SSD):** turning ideas into executable specifications with `OpenSpec`, `BMAD`, and structured delivery workflows
+- 🧠 **Context engineering:** designing the prompts, memory, tools, and retrieval context that help agents work reliably
+- 🧪 **Harness engineering:** building evaluation loops, test fixtures, guardrails, and observability around AI systems
+- 🔎 **RAG:** creating grounded retrieval pipelines across ingestion, chunking, search, reranking, and generation
+- 🛠️ **Custom skills:** building reusable agent skills, domain workflows, and task-specific automations
 
 ## GitHub activity
 
